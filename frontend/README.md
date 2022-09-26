@@ -12,7 +12,9 @@ link: http://localhost:3000
 Foi usado os programas:
 
 Beekeeper Studio (para controle do banco de dados) = https://www.beekeeperstudio.io/
+
 PostgreSQL = https://www.postgresql.org/
+
 Insomnia = https://insomnia.rest/download
 
 
